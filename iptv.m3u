@@ -1,3 +1,6 @@
 #EXTM3U 
 #EXTINF:-1 tvg-logo="https://github.com/SweetBoy4141/iptv/blob/main/logo/desi_tashan.jpg" Desi Tashan
 https://cloudcdn.in/livetv/DesiTashan/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23011/abp-news/poster_20231027_171117.jpg" ,ABP News
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-news/master.m3u8

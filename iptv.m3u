@@ -5,5 +5,3 @@ https://cloudcdn.in/livetv/DesiTashan/video.m3u8
 http://shreeshyamtv.in:5080/shreeshyam/streams/livetv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/pcv_logo.png",Padma Cable Vision
 https://vstechs.in/live/Devine/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/pcv_logo.png",Padma Cable Vision (RTMP)
-rtmp://vstechs.in/live/Devine

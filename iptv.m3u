@@ -1,3 +1,3 @@
 #EXTM3U 
-#EXTINF:-1 tvg-logo="", Desi Tashan
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/desi_tashan.jpg", Desi Tashan
 https://cloudcdn.in/livetv/DesiTashan/index.m3u8

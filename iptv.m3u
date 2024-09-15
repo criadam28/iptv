@@ -1,0 +1,9 @@
+#EXTM3U 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/desi_tashan.jpg",DESI TASHAN
+https://cloudcdn.in/livetv/DesiTashan/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/sri_shyam_tv.jpg",SRI SHYAM TV
+http://shreeshyamtv.in:5080/shreeshyam/streams/livetv.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/pcv_logo.png",Padma Cable Vision
+https://vstechs.in/live/Devine/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/pcv_logo.png",Padma Cable Vision (RTMP)
+rtmp://vstechs.in/live/Devine

@@ -13,3 +13,15 @@ https://stream.e2is.in/hls/VidhataDarshanTv.m3u8
 https://stream.e2is.in/hls/livestream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/YESHUAA-TV-vipotv-min.jpg",YESHUAA-TV
 https://stream.e2is.in/hls/Yeshuaatv.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Nazra Tv.jpg",Nazra Tv
+https://epiconvh.s.llnwi.net/live/nazara/master_720.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Dangal Tv.jpg",Dangal Tv
+https://live-dangal.akamaized.net/liveabr/pub-iodang10p4al/live_720p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Dangal-2.jpg",Dangal-2
+https://live-dangal2.akamaized.net/liveabr/pub-iodanga2a26kj2/live_480p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/ISHAARA TV.jpg",ISHAARA TV
+https://epiconvh.s.llnwi.net/ishaara/master_720.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Zoom TV.jpg",Zoom TV
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom-audio_208482_und=208000-video=2137600.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Music India.jpg",Music India
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/musicindia-audio_208482_und=208000-video=2137600.m3u8

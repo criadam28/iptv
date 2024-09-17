@@ -5,3 +5,5 @@ https://cloudcdn.in/livetv/DesiTashan/video.m3u8
 http://shreeshyamtv.in:5080/shreeshyam/streams/livetv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/a578dc90-8ad4-4d06-a7ae-13e3325af2d3.jpg",7X Music
 https://stream.e2is.in/hls/7xMusic.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Punjab Plus",Punjab Plus
+https://stream.e2is.in/hls/PunjabPlus.m3u8

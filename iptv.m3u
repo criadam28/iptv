@@ -25,3 +25,7 @@ https://epiconvh.s.llnwi.net/ishaara/master_720.m3u8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Music India.jpg",Music India
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/musicindia-audio_208482_und=208000-video=2137600.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/showbox.jpg",showbox
+https://epiconvh.s.llnwi.net/live/showbox/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/hits.jpg",Hindi Hits
+http://146.59.253.52:8080/hindihitshd/index.m3u8

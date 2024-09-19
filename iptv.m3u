@@ -7,7 +7,7 @@ http://shreeshyamtv.in:5080/shreeshyam/streams/livetv.m3u8
 https://stream.e2is.in/hls/7xMusic.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Punjab Plus.jpg",Punjab Plus
 https://stream.e2is.in/hls/PunjabPlus.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Vidhata Darshan.jpg",Vidata Darshan
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/13.jpg",Vidata Darshan
 https://stream.e2is.in/hls/VidhataDarshanTv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/83399091-2715-4d98-9b32-91bd9670a8ea.jpg",STEELBIRD MUSIC
 https://stream.e2is.in/hls/livestream.m3u8

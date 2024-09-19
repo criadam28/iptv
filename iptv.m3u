@@ -29,3 +29,9 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/musicindia-audio_
 https://epiconvh.s.llnwi.net/live/showbox/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/hits.jpg",Hindi Hits
 http://146.59.253.52:8080/hindihitshd/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/9X music.jpg",9X music
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=2137600.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/2.jpg",Bollywood Masala
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-masala/08c6bc7c-9035-4098-8d2f-cb11fb2bf16d/1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/3.jpg",Pitaara
+https://vg-pitaaratvlive.akamaized.net/ptnr-website/title-PitaaraTV/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/61263be5-8b30-4b33-bf50-92a14b53c112/0.m3u8

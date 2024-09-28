@@ -11,6 +11,8 @@ https://stream.e2is.in/hls/PunjabPlus.m3u8
 https://stream.e2is.in/hls/VidhataDarshanTv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/83399091-2715-4d98-9b32-91bd9670a8ea.jpg",STEELBIRD MUSIC
 https://stream.e2is.in/hls/livestream.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Indoo z tv 004.jpg",INDOOZ TV
+https://stream.e2is.in/hls/indoztv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/4.jpg",YESHUAA-TV
 https://stream.e2is.in/hls/Yeshuaatv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/5.jpg",Bollywood Clasic

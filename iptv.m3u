@@ -67,8 +67,10 @@ https://streaming.ptcplay.com/ptcPunjabiINOne/smil:Live.smil/chunklist_w18703725
 https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Punjabi Beats 017.jpg", Punjabi Beats
 http://146.59.253.52:8080/punjabihitshd/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Time Tv 009.jpg",Time tv
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Time Tv 009.jpg",Time tv
 https://chardikalagurbanitv.gigabitcdn.net/in-chardikala/chardikala-timetv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Visin Punjab Music 019.jpg", Visin Punjab Music
+http://a-edge.bliscdn.com/Visionpunjabmusic/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/400x400.jpg",9X Jalwa
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjalwa/default/9XJalwa-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/9X Jakas.jpg",9X Jhakaas

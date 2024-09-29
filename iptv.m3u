@@ -119,6 +119,8 @@ http://146.59.253.52:8080/Livekabaddi/tracks-v1a1/mono.m3u8
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/15.jpg",Jantatv
 https://284rnk9kr7xv-hls-live.wmncdn.net/jantatv/live.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/100.jpg",Zee News
+https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
 
 
 

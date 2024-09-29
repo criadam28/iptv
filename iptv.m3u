@@ -95,6 +95,8 @@ http://146.59.253.52:8080/daillypostebaba/video.m3u8
 http://tv.hamdardtv.com/hamdard/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Punjab-Mail-022.jpg", Punjab-Mail
 http://cdn12.henico.net:8080/live/punjabmailusa/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Apna Punjab 026.jpg", Apna Punjab Tv
+https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Live Kabaddi 024.jpg", Kabaddi Live
 http://146.59.253.52:8080/Livekabaddi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Aaj Tak.jpg",Aaj Tak

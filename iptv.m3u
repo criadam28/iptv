@@ -13,7 +13,7 @@ https://stream.e2is.in/hls/VidhataDarshanTv.m3u8
 https://stream.e2is.in/hls/livestream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Indoo z tv 004.jpg",Indooz tv
 https://stream.e2is.in/hls/indoztv.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/4.jpg",Yeshua tv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/4.jpg",Yeshuaa tv
 https://stream.e2is.in/hls/Yeshuaatv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/5.jpg",Bollywood Clasic
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
@@ -35,6 +35,8 @@ https://live-dangal2.akamaized.net/liveabr/pub-iodanga2a26kj2/live_480p/chunks.m
 https://epiconvh.s.llnwi.net/ishaara/master_720.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Shemaroo Umang 003.jpg", Shemaroo Umang
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-umang-plus/036678c6-caf1-4f0c-a931-f0760039abd6/2.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/shemaroo-filmi-014.jpg", Shemaroo Filmi Gaane
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/09d2494d-6b01-4963-98e8-b42ac61124d0/2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Zoom TV.jpg",Zoom TV
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Music India.jpg",Music India

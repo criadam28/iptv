@@ -69,8 +69,6 @@ https://streaming.ptcplay.com/ptcPunjabiINOne/smil:Live.smil/chunklist_w18703725
 https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Punjabi Beats 017.jpg", Punjabi Beats
 http://146.59.253.52:8080/punjabihitshd/index.m3u8
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Time Tv 009.jpg",Time tv
-https://chardikalagurbanitv.gigabitcdn.net/in-chardikala/chardikala-timetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Only Music 021.jpg", Only Music
 https://livestream.unlimitedcdn.com/onlymusic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/PTN 24 025.jpg", Ptn 24 
@@ -93,6 +91,8 @@ https://chardikalatimestv.gigabitcdn.net/in-chardikala/chardikala-gurbani-tv/tra
 http://a-edge.bliscdn.com/Visionpunjabgurbani/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Daily Post Punjabi 018.jpg", Daily Post Punjabi
 http://146.59.253.52:8080/daillypostebaba/video.m3u8
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Time Tv 009.jpg",Time tv
+https://chardikalagurbanitv.gigabitcdn.net/in-chardikala/chardikala-timetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Hamdarad Tv 023.jpg", Hamdarad Tv
 http://tv.hamdardtv.com/hamdard/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Punjab-Mail-022.jpg", Punjab-Mail

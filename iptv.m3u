@@ -109,7 +109,7 @@ http://a-edge.bliscdn.com/Visionpunjabgurbani/playlist.m3u8
 https://main.clickstreamcdn.com/sp/mr-singh/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Daily Post Punjabi 018.jpg", Daily Post Punjabi
 http://146.59.253.52:8080/daillypostebaba/video.m3u8
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Time Tv 009.jpg",Time tv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Time Tv 009.jpg",Time tv
 https://chardikalagurbanitv.gigabitcdn.net/in-chardikala/chardikala-timetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Hamdarad Tv 023.jpg", Hamdarad Tv
 http://tv.hamdardtv.com/hamdard/index.m3u8

@@ -105,6 +105,8 @@ https://live.wmncdn.net/gurudwarasahib/f08a2f48b696fdfb759e62f7be8a0938.sdp/play
 https://chardikalatimestv.gigabitcdn.net/in-chardikala/chardikala-gurbani-tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/vision punjab gurbani 020.jpg", Visin Punjab Gurbani
 http://a-edge.bliscdn.com/Visionpunjabgurbani/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Nihal Tv  ( Nanaksar ) 034.jpg", Nihal Tv ( Nanaksar Kaleran )
+https://main.clickstreamcdn.com/sp/mr-singh/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Daily Post Punjabi 018.jpg", Daily Post Punjabi
 http://146.59.253.52:8080/daillypostebaba/video.m3u8
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Time Tv 009.jpg",Time tv

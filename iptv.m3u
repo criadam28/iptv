@@ -145,6 +145,8 @@ https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/ind
 https://dai.google.com/linear/hls/pb/event/FbL8YN7tSnqysJ6wVjKW7A/stream/35fc8403-b6b7-40ed-bbe3-6da585574c00:SIN/variant/de095cc81bbdf876afd424974a1a9fa7/bandwidth/5882800.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/NdTv Rajasthan.jpg", NdTv Rajasthan
 https://dai.google.com/linear/hls/pb/event/IoTNl-GQShWKit_KdZNY_A/stream/6cd72798-8e80-404c-af35-05e6273dabce:TPE2/variant/f7c35c7d8b6156d0b6885058f6d0ce9c/bandwidth/2628000.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/News 24.jpg", News 24
+https://bb4ece8d78fb4e85b0713ee8a3f73e7b.mediatailor.ap-south-1.amazonaws.com/v1/manifest/8c46099fe45335f63ce7178b3eb4f427ab1d2158/news24-prod-pal/c4cd55fe-73f0-49d8-8018-f211668fc1d7/2.m3u8
 
 
 

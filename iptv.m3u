@@ -137,6 +137,8 @@ https://abplivetv.akamaized.net/hls/live/2043010/hindi/master_720.m3u8
 https://indianews.ottlive.co.in/newsx/newsx/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/India Todat 037.jpg", India Todat
 https://indiatodaylive.akamaized.net/hls/live/2014320-b/indiatoday/indiatodaylive/live_720p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Gnt News 038.jpg", Gnt News
+https://tezlive-amd.akamaized.net/hls/live/2016145/gnt/gntlive/live_720p/chunks.m3u8
 
 
 

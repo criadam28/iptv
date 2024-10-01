@@ -141,6 +141,9 @@ https://indiatodaylive.akamaized.net/hls/live/2014320-b/indiatoday/indiatodayliv
 https://tezlive-amd.akamaized.net/hls/live/2016145/gnt/gntlive/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/India Tv.jpg", India Tv
 https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index_3.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/NdTv 24x7.jpg", NdTv 24x7
+https://dai.google.com/linear/hls/pb/event/FbL8YN7tSnqysJ6wVjKW7A/stream/35fc8403-b6b7-40ed-bbe3-6da585574c00:SIN/variant/de095cc81bbdf876afd424974a1a9fa7/bandwidth/5882800.m3u8
+
 
 
 

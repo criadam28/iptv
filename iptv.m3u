@@ -149,7 +149,8 @@ https://dai.google.com/linear/hls/pb/event/IoTNl-GQShWKit_KdZNY_A/stream/6cd7279
 https://bb4ece8d78fb4e85b0713ee8a3f73e7b.mediatailor.ap-south-1.amazonaws.com/v1/manifest/8c46099fe45335f63ce7178b3eb4f427ab1d2158/news24-prod-pal/c4cd55fe-73f0-49d8-8018-f211668fc1d7/2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/News_18_India.jpg", News 18 India
 https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/News18_India_NW18_MOB-audio_98835_eng=98800-video=3724000.m3u8
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/TV9_Bharatvarsh.jpg", TV9 Bharatvarsh
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/pub-iotv9hinjzgtpe/live_720p/chunks.m3u8
 
 
 

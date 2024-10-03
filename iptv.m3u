@@ -95,6 +95,8 @@ https://aasthaott.akamaized.net/110923/smil:bhajan.smil/chunklist_b1928000.m3u8
 https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index_12.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/105.jpg",Satsang
 https://d2vfwvjxwtwq1t.cloudfront.net/out/v1/6b24239d5517495b986e7705490c6e65/index_10.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Divya Channel.jpg",Divya Channel
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/channel-divya/bb6f027a-3fa5-41eb-b873-af5713d9be43/0.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Darbar Sahib Live 013.jpg", Darbar Sahib Live
 http://146.59.253.52:8080/sgpclive/video.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Amrit Gurbani 030.jpg", Amrit Bani Tv

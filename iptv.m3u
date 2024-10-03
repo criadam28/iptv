@@ -105,6 +105,8 @@ https://stream.e2is.in/hls/SatlujTv.m3u8
 https://live.wmncdn.net/gurudwarasahib/f08a2f48b696fdfb759e62f7be8a0938.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Chardikala Gurbani 016.jpg", Chardikala Gurbani
 https://chardikalatimestv.gigabitcdn.net/in-chardikala/chardikala-gurbani-tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Garv Gurbani.jpg",Garv Gurbani
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/garv-punjab-gurbani/08324f23-3865-4ba0-96a0-e66e83f64464/0.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/vision punjab gurbani 020.jpg", Visin Punjab Gurbani
 http://a-edge.bliscdn.com/Visionpunjabgurbani/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Nihal Tv  ( Nanaksar ) 034.jpg", Nihal Tv ( Nanaksar Kaleran )

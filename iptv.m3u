@@ -127,6 +127,8 @@ https://mcncdndigital.com/worldpunjabitv/tracks-v1/index.fmp4.m3u8
 http://primeasia.mine.nu/Patv_Ind_FHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Apna Punjab 026.jpg", Apna Punjab Tv
 https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Tv Punjab.jpg",Tv Punjab
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv-punjab/bc3d9765-7bb5-45fd-b7da-e29f81b41e31/0.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Live Kabaddi 024.jpg", Kabaddi Live
 http://146.59.253.52:8080/Livekabaddi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Aaj Tak.jpg",Aaj Tak

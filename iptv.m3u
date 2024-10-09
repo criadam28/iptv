@@ -91,6 +91,8 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjalwa/default/9XJalwa-audio_20848
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjhakaas/default/9Xjhakaas-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Joo_Music.jpg", Joo Music
 https://livecdn.live247stream.com/joomusic/tv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/PHARI TARANG.jpg", Phari Tatang
+https://stream.e2is.in/hls/paharitarangtv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Mh1.jpg",Mh1
 https://mhlive.paramountinfosystem.com/mhonedilse/098f6bcd4621d373cade4e832627b4f6.sdp/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Bhakti-Play Tv 010.jpg",Bhakti Play tv

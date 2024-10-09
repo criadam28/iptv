@@ -87,10 +87,12 @@ http://a-edge.bliscdn.com/Visionpunjabmusic/playlist.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjalwa/default/9XJalwa-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/9X Jakas.jpg",9X Jhakaas
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjhakaas/default/9Xjhakaas-audio_208482_und=208000-video=2137600.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Joo_Music.jpg", Joo Music
+https://livecdn.live247stream.com/joomusic/tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Mh1.jpg",Mh1
 https://mhlive.paramountinfosystem.com/mhonedilse/098f6bcd4621d373cade4e832627b4f6.sdp/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Bhakti-Play Tv 010.jpg",Bhakti Play tv
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bhakti-play/83b10ab6-ba72-43a6-a68f-6dbcf3d563da/1.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bhakti-play/057d51c2-6bcd-4753-ba51-9a13f62543ba/1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/102.jpg",Aastha
 https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/chunklist_b2628000.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/103.jpg",Aastha Bhajan
@@ -167,8 +169,7 @@ https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/News18_India_
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/pub-iotv9hinjzgtpe/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Global India.jpg",Global India
 https://server.livelegitpro.in/globalindiatv/globalindiatv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Joo_Music.jpg", Joo Music
-https://livecdn.live247stream.com/joomusic/tv/chunks.m3u8
+
 
 
 

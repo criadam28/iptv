@@ -35,6 +35,8 @@ https://epiconvh.s.llnwi.net/ishaara/master_720.m3u8
 https://amg01448-samsungin-dabanggin-samsungin-fi3y5.amagi.tv/playlist/amg01448-samsungin-dabanggin-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Shemaroo Umang 003.jpg", Shemaroo Umang
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-umang-plus/036678c6-caf1-4f0c-a931-f0760039abd6/2.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Epic.jpg", Epic
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/epic-tv/3492e090-a81a-4a9f-8f2b-b971865acd25/1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/shemaroo-filmi-014.jpg", Shemaroo Filmi Gaane
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/ff652bde-f3ac-486a-9cf9-4dbd1445ec54/2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Zoom TV.jpg",Zoom TV

@@ -1,5 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Malcolm 24/7 Twitch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Malcolm_in_the_Middle_logo.svg" ,Malcolm el de enmedio
 https://video-weaver.dfw02.hls.ttvnw.net/v1/playlist/CvMEVtlCR9BcQKNSzimnh7pnNayE0TPrDaI-TPxIuLkp3tXiYjRQVn57OPe2TvSmO57clYtINHHyeBP5pB8bgajJR16Q-sD1QjK2KMtSTk9DIvLZ_bskWM18zBfstK7h3gFRFZ-F6qhNwDPRmzqmlH4Oar9lh6y81YaujRk4ylMAcqKvYvbMPtTOKGQFJ-CCyq2VLd8AHOeuI2fdDHovPn0emQCyIs8UChN23BOQvTn-EY9-d6Djhd7Q1tqR1537lnUD8BOL07vMNoZmQeyyAgY8ah3iJ_82qdfbR6QDyAqCtFEDyxK8LDY3u9p_jHi85s93YzeTsd70dudXeAg45wuYIcVZCbh3r8Asauh_gQgdtOxZz5ZaP4wj--5SJZFJlYm-5fSs3fHz5cBAS3CiiBi-M3sHyEgMtEARnkcaDML1pQ4G8tS9IZM71iSzVG-BCrL5It1PDJWtKfLsehCkBkD0nwztQIhrxj2PlczUNvT5L4-iCEE_iL9SwH5rgThs4nkH-n2OxjHgglM0uUWbvMvjZFWlTcJ0BN4cvMPLB5wjOv1PxA9SFpRbMBUevNSkYY3hsRHNlUxwgfdMwsyH4fn6KznKQLEcatLZNRNnJ0H6wZ0Clf441hjflrUX-goOPBVIMmIhHg4RdePdiAQiTSdIjtaD4KPDZqocwMy5d0-m6-GAxqE00FZfpsT-OpmylQ80EE1RuEU8k7vSgAEIlD24WPChlb2_RrrOHqpIvoRQhKJZabskeMzobGRgks_ZHAduPLIhta2dPam3dVte5bM8VM97ZYFb4bR0BYTP56Noe2Gil4dA4DlM-Fhm6Jnl4JiQMgRwGgwtwNW0S0BSLdV1mScgASoJdXMtd2VzdC0yMMsK.m3u8
-#EXTINF:-1 tvg-id="CartoonNetworkEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" ,Cartoon Network East (1080p)
+#EXTINF:-1 tvg-id="CartoonNetworkEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" ,Cartoon Network East 
 https://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="Icarly" tvg-logo="https://images.pluto.tv/channels/6181404ef48321000797bc41/colorLogoPNG.png" ,Icarly Hd
+http://595869400106931648.ofgop1010.xyz:80/live/te530884/XCk8jxfN@kb/931648.ts
+#EXTINF:-1 tvg-id="A&E" tvg-logo="http://fanc.tmsimg.com/assets/s10035_ll_h3_ab.png" ,A&E 
+http://595869400106937609.ofgop1010.xyz:80/live/te530884/XCk8jxfN@kb/937609.ts
+#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-logo="http://estoxy.net:80/images/KPr_Ouz8236z9JLqgRm5YM85qLalBhfvrT0GwgetWTCV8flhtqIrxBXzn8K56bIkj4m2RpYAM4xXBFf57Lh7gw.png" ,Animal Planet HD
+http://595869400106937613.ofgop1010.xyz:80/live/te530884/XCk8jxfN@kb/937613.ts
+#EXTINF:-1 tvg-id="Distrito Comedia HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png" ,Distrito Comedia HD
+http://595869400106937641.ofgop1010.xyz:80/live/te530884/XCk8jxfN@kb/937641.ts

@@ -121,3 +121,5 @@ https://daleplay.club:443/live/USUARIO2/50XucB4tdN/f693a579-0e0b-4e5a-bfd8-3ecc5
 https://daleplay.club:443/live/USUARIO2/50XucB4tdN/f47f21ff-cb6f-433c-b3a0-fc151235e41f.m3u
 #EXTINF:-1 tvg-id="DEPORTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" ,Dsport 
 https://daleplay.club:443/live/USUARIO2/50XucB4tdN/82c34889-e106-4391-a2c2-06df8ee2b0c2.m3u
+#EXTINF:-1 tvg-id="Westcol" tvg-logo="", Westcol Stream
+https://kick.com/westcol

@@ -15,3 +15,5 @@ http://595869400106937641.ofgop1010.xyz:80/live/te530884/XCk8jxfN@kb/937641.ts
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 tvg-id="Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" ,Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 tvg-id="DW Español" tvg-logo="https://i.imgur.com/A1xzjOI.png" ,DW Español HD
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8

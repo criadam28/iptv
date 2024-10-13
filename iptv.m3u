@@ -133,5 +133,5 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aca831
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc266f80e3550009136843/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Cine Marvel" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" ,24/7 Cine Marvel
 http://mastervip.work:8080/live/alexisgranada/bdJf6UULLn/254141.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cine Netflix" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7",24/7 Cine Netflix
-http://mastervip.work:8080/live/alexisgranada/bdJf6UULLn/283444.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX TV 1" tvg-logo="https://i.postimg.cc/VLsZzssq/My-project-1-removebg-preview.png" ,NETFLIX TV 1
+http://mastervip.work:8080/live/alexisgranada/bdJf6UULLn/148448.m3u8

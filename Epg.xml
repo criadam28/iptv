@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version 1.1.1/55.27 -- Jan van Straaten" site="gatotv.com">
-  <channels>
-    <channel update="i" site="gatotv.com" site_id="canal/amc_colombia" xmltv_id="Canal AMC (Colombia)">AMC HD</channel>
-    <channel update="i" site="gatotv.com" site_id="canal/a_and_e_panregional" xmltv_id="Canal A&E (Panregional)">A&E HD</channel>
-</channels>
-</site>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="EPG-Latam" generator-info-url="https://epg.programadorx.cl">
+  <channel id="CanalAMC.Colombia">
+    <display-name>AMC HD</display-name>
+  </channel>
+  <channel id="CanalAE.Panregional">
+    <display-name>A&E HD</display-name>
+  </channel>
+
+  <!-- Ejemplo de programas para AMC HD -->
+  <programme start="20241111060000 +0000" stop="20241111070000 +0000" channel="CanalAMC.Colombia">
+    <title>Película de Acción</title>
+    <desc>Una emocionante película de acción.</desc>
+  </programme>
+
+  <!-- Ejemplo de programas para A&E HD -->
+  <programme start="20241111100000 +0000" stop="20241111110000 +0000" channel="CanalAE.Panregional">
+    <title>Documental Histórico</title>
+    <desc>Exploración de eventos históricos importantes.</desc>
+  </programme>
+</tv>
